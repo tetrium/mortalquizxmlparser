@@ -9,6 +9,21 @@ using Microsoft.Office.Interop.Excel;
 
 namespace MortalQuizXML2Cs
 {
+
+    public enum QuestionCategoryId
+    {
+        Anime = 0,
+        Videogames = 1,
+        Comics = 2,
+        Series = 3,
+        Movies = 4,
+        Math = 5,
+        Astronomy = 6,
+        Chemistry = 7,
+        Physics = 8,
+        UniversalHistory = 9,
+        Geography = 10
+    }
     class Program
     {
 
