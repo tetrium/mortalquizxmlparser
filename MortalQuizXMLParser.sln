@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortalQuizXMLParser", "MortalQuizXMLParser\MortalQuizXMLParser.csproj", "{79963C4D-62B5-4A5A-9A77-FDA7A904ABC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79963C4D-62B5-4A5A-9A77-FDA7A904ABC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79963C4D-62B5-4A5A-9A77-FDA7A904ABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79963C4D-62B5-4A5A-9A77-FDA7A904ABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79963C4D-62B5-4A5A-9A77-FDA7A904ABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE57363F-36AE-4A11-A324-8757E2A977DD}
+	EndGlobalSection
+EndGlobal

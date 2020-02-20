@@ -1,0 +1,8 @@
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\bin\Debug\MortalQuizXMLParser.exe.config
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\bin\Debug\MortalQuizXMLParser.exe
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\bin\Debug\MortalQuizXMLParser.pdb
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\obj\Debug\MortalQuizXMLParser.MortalQuizXMLParser.resources
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\obj\Debug\MortalQuizXMLParser.Properties.Resources.resources
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\obj\Debug\MortalQuizXMLParser.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\obj\Debug\MortalQuizXMLParser.exe
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXMLParser\obj\Debug\MortalQuizXMLParser.pdb
