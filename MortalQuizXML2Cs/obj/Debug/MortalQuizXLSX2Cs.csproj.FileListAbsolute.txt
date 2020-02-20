@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXML2Cs\bin\Debug\MortalQuizXML2Cs.exe.config
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXML2Cs\bin\Debug\MortalQuizXML2Cs.exe
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXML2Cs\bin\Debug\MortalQuizXML2Cs.pdb
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXML2Cs\obj\Debug\MortalQuizXML2Cs.exe
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXML2Cs\obj\Debug\MortalQuizXML2Cs.pdb
+C:\Users\rodri\source\repos\MortalQuizXMLParser\MortalQuizXML2Cs\obj\Debug\MortalQuizXLSX2Cs.csprojAssemblyReference.cache
